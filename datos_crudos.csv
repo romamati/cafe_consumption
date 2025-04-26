@@ -1,0 +1,8 @@
+fecha,hora,tipo_cafe,temperatura,marca,tamano,lugar,companeros,notas_sabor,tipo_grano
+2025-04-21,08:00,Espresso Roast,Caliente,Starbucks,Grande,Casa,Solo,"chocolate negro;caramelo;acidez equilibrada","Arabica;Robusta"
+2025-04-22,08:32,Espresso Roast,Caliente,Starbucks,Grande,Casa,Solo,"chocolate negro;caramelo;acidez equilibrada","Arabica;Robusta"
+2025-04-22,17:47,Segafredo Zanetti-Extra Strong,Caliente,Segafredo,Mediano,ITBA Rectorado,Con compañeros de facultad,"chocolate con aroma picante;ligeramente maltoso;nivel medio de acidez;sabor terroso","Arabica"
+2025-04-23,08:45,Espresso Roast,Caliente,Starbucks,Grande,Casa,Solo,"chocolate negro;caramelo;acidez equilibrada","Arabica;Robusta"
+2025-04-23,16:28,Colombia,Caliente,Nespresso,Pequeño,Casa,Solo,"acidez brillante;cuerpo completo;afrutado;floral","Arabica"
+2025-04-24,14:30,Segafredo Zanetti-Extra Strong,Caliente,Segafredo,Mediano,ITBA Financiero,Con compañeros de facultad,"chocolate con aroma picante;ligeramente maltoso;nivel medio de acidez;sabor terroso","Arabica"
+2025-04-25,09:12,House Blend,Frío,Starbucks,Grande,casa de mi novia,con mi novia,"notas de cacao;frutos secos","Diferentes variedades de latinoamérica"

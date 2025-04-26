@@ -1,0 +1,8 @@
+fecha,hora,tipo_cafe,caliente,frio,grande,pequeno,solo,aroma_chocolate,aroma_caramelo,acidez_equilibrada,acidez_brillante,cuerpo_completo,nota_afrutado,nota_floral,nota_cacao,nota_frutos_secos
+2025-04-21,08:00,Espresso Roast,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2025-04-22,08:32,Espresso Roast,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2025-04-22,17:47,Segafredo Zanetti-Extra Strong,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2025-04-23,08:45,Espresso Roast,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2025-04-23,16:28,Colombia,1,0,0,1,1,0,0,0,1,1,1,1,0,0
+2025-04-24,14:30,Segafredo Zanetti-Extra Strong,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2025-04-25,9:12,House Blend,0,1,1,0,0,0,0,1,0,0,0,0,1,1
